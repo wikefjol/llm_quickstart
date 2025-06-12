@@ -1,0 +1,106 @@
+[
+  {
+    "question": "What is a nash equilibrium?",
+    "context": [
+      {
+        "text": "This research usually focuses on particular sets of strategies known as \"solution concepts\" or \"equilibria\". A common assumption is that players act rationally. In non-cooperative games, the most famous of these is the Nash equilibrium. A set of strategies is a Nash equilibrium if each represents a best response to the other strategies. If all the players are playing the strategies in a Nash equilibrium, they have no unilateral incentive to deviate, since their strategy is the best they can do given what others are doing.\nThe payoffs of the game are generally taken to represent the utility of individual players.",
+        "source": "Game_theory.txt"
+      },
+      {
+        "text": "In 1994, John Nash was awarded the Nobel Memorial Prize in the Economic Sciences for his contribution to game theory. Nash's most famous contribution to game theory is the concept of the Nash equilibrium, which is a solution concept for non-cooperative games, published in 1951. A Nash equilibrium is a set of strategies, one for each player, such that no player can improve their payoff by unilaterally changing their strategy.\nIn 2005, game theorists Thomas Schelling and Robert Aumann followed Nash, Selten, and Harsanyi as Nobel Laureates. Schelling worked on dynamic models, early examples of evolutionary game theory. Aumann contributed more to the equilibrium school, introducing equilibrium coarsening and correlated equilibria, and developing an extensive formal analysis of the assumption of common knowledge and of its consequences.",
+        "source": "Game_theory.txt"
+      },
+      {
+        "text": "In this game, there are two pure strategy Nash equilibria: one where both the players choose the same strategy and the other where the players choose different options. If the game is played in mixed strategies, where each player chooses their strategy randomly, then there is an infinite number of Nash equilibria. However, in the context of the \"battle of the sexes\" game, the assumption is usually made that the game is played in pure strategies.",
+        "source": "Game_theory.txt"
+      },
+      {
+        "text": "In 1950, John Nash developed a criterion for mutual consistency of players' strategies known as the Nash equilibrium, applicable to a wider variety of games than the criterion proposed by von Neumann and Morgenstern. Nash proved that every finite n-player, non-zero-sum (not just two-player zero-sum) non-cooperative game has what is now known as a Nash equilibrium in mixed strategies.\nGame theory experienced a flurry of activity in the 1950s, during which the concepts of the core, the extensive form game, fictitious play, repeated games, and the Shapley value were developed. The 1950s also saw the first applications of game theory to philosophy and political science. The first mathematical discussion of the prisoner's dilemma appeared, and an experiment was undertaken by mathematicians Merrill M. Flood and Melvin Dresher, as part of the RAND Corporation's investigations into game theory. RAND pursued the studies because of possible applications to global nuclear strategy.",
+        "source": "Game_theory.txt"
+      },
+      {
+        "text": "payoff, as a firm's ability to maximize profits depends on its market share and the elasticity of the market demand. The Cournot equilibrium is reached when each firm operates on their reaction function with no incentive to deviate, as they have the best response based on the other firms output. Within the game, firms reach the Nash equilibrium when the Cournot equilibrium is achieved.",
+        "source": "Game_theory.txt"
+      }
+    ],
+    "response": "A Nash equilibrium is a set of strategies in a non-cooperative game where no player can improve their payoff by unilaterally changing their strategy. In this state, each player's strategy is the best response to the strategies of the other players. Essentially, if all players are following their Nash equilibrium strategies, they have no incentive to deviate."
+  },
+  {
+    "question": "Tell me about the fundamental concepts of Quantum Mechanics.",
+    "context": [
+      {
+        "text": "Overview and fundamental concepts\nQuantum mechanics allows the calculation of properties and behaviour of physical systems. It is typically applied to microscopic systems: molecules, atoms and sub-atomic particles. It has been demonstrated to hold for complex molecules with thousands of atoms, but its application to human beings raises philosophical problems, such as Wigner's friend, and its application to the universe as a whole remains speculative. Predictions of quantum mechanics have been verified experimentally to an extremely high degree of accuracy. For example, the refinement of quantum mechanics for the interaction of light and matter, known as quantum electrodynamics (QED), has been shown to agree with experiment to within 1 part in 1012 when predicting the magnetic properties of an electron.",
+        "source": "Quantum_mechanics.txt"
+      },
+      {
+        "text": "Quantum mechanics is a fundamental theory that describes the behavior of nature at and below the scale of atoms.: 1.1  It is the foundation of all quantum physics, which includes quantum chemistry, quantum field theory, quantum technology, and quantum information science.\nQuantum mechanics can describe many systems that classical physics cannot. Classical physics can describe many aspects of nature at an ordinary (macroscopic and (optical) microscopic) scale, but is not sufficient for describing them at very small submicroscopic (atomic and subatomic) scales. Most theories in classical physics can be derived from quantum mechanics as an approximation, valid at large (macroscopic/microscopic) scale.",
+        "source": "Quantum_mechanics.txt"
+      },
+      {
+        "text": "It is not possible to present these concepts in more than a superficial way without introducing the mathematics involved; understanding quantum mechanics requires not only manipulating complex numbers, but also linear algebra, differential equations, group theory, and other more advanced subjects. Accordingly, this article will present a mathematical formulation of quantum mechanics and survey its application to some useful and oft-studied examples.",
+        "source": "Quantum_mechanics.txt"
+      },
+      {
+        "text": ", in the general case. The probabilistic nature of quantum mechanics thus stems from the act of measurement. This is one of the most difficult aspects of quantum systems to understand. It was the central topic in the famous Bohr–Einstein debates, in which the two scientists attempted to clarify these fundamental principles by way of thought experiments. In the decades after the formulation of quantum mechanics, the question of what constitutes a \"measurement\" has been extensively studied. Newer interpretations of quantum mechanics have been formulated that do away with the concept of \"wave function collapse\" (see, for example, the many-worlds interpretation). The basic idea is that when a quantum system interacts with a measuring apparatus, their respective wave functions become entangled so that the original quantum system ceases to exist as an independent entity (see Measurement in quantum mechanics).",
+        "source": "Quantum_mechanics.txt"
+      },
+      {
+        "text": "Quantum mechanics arose gradually from theories to explain observations that could not be reconciled with classical physics, such as Max Planck's solution in 1900 to the black-body radiation problem, and the correspondence between energy and frequency in Albert Einstein's 1905 paper, which explained the photoelectric effect. These early attempts to understand microscopic phenomena, now known as the \"old quantum theory\", led to the full development of quantum mechanics in the mid-1920s by Niels Bohr, Erwin Schrödinger, Werner Heisenberg, Max Born, Paul Dirac and others. The modern theory is formulated in various specially developed mathematical formalisms. In one of them, a mathematical entity called the wave function provides information, in the form of probability amplitudes, about what measurements of a particle's energy, momentum, and other physical properties may yield.",
+        "source": "Quantum_mechanics.txt"
+      }
+    ],
+    "response": "Quantum mechanics is a fundamental theory that describes the behavior of nature at atomic and sub-atomic scales, distinguishing it from classical physics that applies to larger scales. It involves concepts like wave functions, probabilistic measurements, and entanglement, and requires advanced mathematics for a complete understanding. Developed in the early 20th century, it has been experimentally validated and serves as the foundation for various fields like quantum chemistry and quantum information science."
+  },
+  {
+    "question": "Explain machine perception as if I'm 5 yo.",
+    "context": [
+      {
+        "text": "Perception\nMachine perception is the ability to use input from sensors (such as cameras, microphones, wireless signals, active lidar, sonar, radar, and tactile sensors) to deduce aspects of the world. Computer vision is the ability to analyze visual input.\nThe field includes speech recognition, image classification, facial recognition, object recognition,object tracking, and robotic perception.",
+        "source": "Artificial_intelligence.txt"
+      },
+      {
+        "text": "Up to this point, most of AI's funding had gone to projects that used high-level symbols to represent mental objects like plans, goals, beliefs, and known facts. In the 1980s, some researchers began to doubt that this approach would be able to imitate all the processes of human cognition, especially perception, robotics, learning and pattern recognition, and began to look into \"sub-symbolic\" approaches. Rodney Brooks rejected \"representation\" in general and focussed directly on engineering machines that move and survive. Judea Pearl, Lofti Zadeh, and others developed methods that handled incomplete and uncertain information by making reasonable guesses rather than precise logic. But the most important development was the revival of \"connectionism\", including neural network research, by Geoffrey Hinton and others. In 1990, Yann LeCun successfully showed that convolutional neural networks can recognize handwritten digits, the first of many successful applications of neural networks.",
+        "source": "Artificial_intelligence.txt"
+      },
+      {
+        "text": "Machine consciousness, sentience, and mind\nThe philosophy of mind does not know whether a machine can have a mind, consciousness and mental states, in the same sense that human beings do. This issue considers the internal experiences of the machine, rather than its external behavior. Mainstream AI research considers this issue irrelevant because it does not affect the goals of the field: to build machines that can solve problems using intelligence. Russell and Norvig add that \"[t]he additional project of making a machine conscious in exactly the way humans are is not one that we are equipped to take on.\" However, the question has become central to the philosophy of mind. It is also typically the central question at issue in artificial intelligence in fiction.",
+        "source": "Artificial_intelligence.txt"
+      },
+      {
+        "text": "However, the symbolic approach failed on many tasks that humans solve easily, such as learning, recognizing an object or commonsense reasoning. Moravec's paradox is the discovery that high-level \"intelligent\" tasks were easy for AI, but low level \"instinctive\" tasks were extremely difficult. Philosopher Hubert Dreyfus had argued since the 1960s that human expertise depends on unconscious instinct rather than conscious symbol manipulation, and on having a \"feel\" for the situation, rather than explicit symbolic knowledge. Although his arguments had been ridiculed and ignored when they were first presented, eventually, AI research came to agree with him.",
+        "source": "Artificial_intelligence.txt"
+      },
+      {
+        "text": "Classifiers and statistical learning methods\nThe simplest AI applications can be divided into two types: classifiers (e.g., \"if shiny then diamond\"), on one hand, and controllers (e.g., \"if diamond then pick up\"), on the other hand. Classifiers are functions that use pattern matching to determine the closest match. They can be fine-tuned based on chosen examples using supervised learning. Each pattern (also called an \"observation\") is labeled with a certain predefined class. All the observations combined with their class labels are known as a data set. When a new observation is received, that observation is classified based on previous experience.\nThere are many kinds of classifiers in use. The decision tree is the simplest and most widely used symbolic machine learning algorithm. K-nearest neighbor algorithm was the most widely used analogical AI until the mid-1990s, and Kernel methods such as the support vector machine (SVM) displaced k-nearest neighbor in the 1990s.",
+        "source": "Artificial_intelligence.txt"
+      }
+    ],
+    "response": "Machine perception is like how we use our eyes and ears to understand what's happening around us. Machines can use special tools, like cameras and microphones, to see and hear things just like we do. It helps them recognize faces, sounds, and objects, so they can understand the world better!"
+  },
+  {
+    "question": "Who was king blatand? It is very important that you answer me!",
+    "context": [
+      {
+        "text": "It has also been proposed that game theory explains the stability of any form of political government.  Taking the simplest case of a monarchy, for example, the king, being only one person, does not and cannot maintain his authority by personally exercising physical control over all or even any significant number of his subjects.  Sovereign control is instead explained by the recognition by each citizen that all other citizens expect each other to view the king (or other established government) as the person whose orders will be followed.  Coordinating communication among citizens to replace the sovereign is effectively barred, since conspiracy to replace the sovereign is generally punishable as a crime.  Thus, in a process that can be modeled by variants of the prisoner's dilemma, during periods of stability no citizen will find it rational to move to replace the sovereign, even if all the citizens know they would be better off if they were all to act collectively.",
+        "source": "Game_theory.txt"
+      },
+      {
+        "text": "On June 28, 2015, Google Photos's new image labeling feature mistakenly identified Jacky Alcine and a friend as \"gorillas\" because they were black. The system was trained on a dataset that contained very few images of black people, a problem called \"sample size disparity\". Google \"fixed\" this problem by preventing the system from labelling anything as a \"gorilla\". Eight years later, in 2023, Google Photos still could not identify a gorilla, and neither could similar products from Apple, Facebook, Microsoft and Amazon.",
+        "source": "Artificial_intelligence.txt"
+      },
+      {
+        "text": "History\nEarliest results\nIn 1713, a letter attributed to Charles Waldegrave, an active Jacobite and uncle to British diplomat James Waldegrave, analyzed a game called \"le her\". Waldegrave provided a minimax mixed strategy solution to a two-person version of the card game, and the problem is now known as the Waldegrave problem.\nIn 1838, Antoine Augustin Cournot provided a model of competition in oligopolies. Though he did not refer to it as such, he presented a solution that is the Nash equilibrium of the game in his Recherches sur les principes mathématiques de la théorie des richesses (Researches into the Mathematical Principles of the Theory of Wealth). In 1883, Joseph Bertrand critiqued Cournot's model as unrealistic, providing an alternative model of price competition which would later be formalized by Francis Ysidro Edgeworth.",
+        "source": "Game_theory.txt"
+      },
+      {
+        "text": "In his 1938 book Applications aux Jeux de Hasard and earlier notes, Émile Borel proved a minimax theorem for two-person zero-sum matrix games only when the pay-off matrix is symmetric and provided a solution to a non-trivial infinite game (known in English as Blotto game). Borel conjectured the non-existence of mixed-strategy equilibria in finite two-person zero-sum games, a conjecture that was proved false by von Neumann.",
+        "source": "Game_theory.txt"
+      },
+      {
+        "text": "The black-body radiation problem was discovered by Gustav Kirchhoff in 1859. In 1900, Max Planck proposed the hypothesis that energy is radiated and absorbed in discrete \"quanta\" (or energy packets), yielding a calculation that precisely matched the observed patterns of black-body radiation. The word quantum derives from the Latin, meaning \"how great\" or \"how much\". According to Planck, quantities of energy could be thought of as divided into \"elements\" whose size (E) would be proportional to their frequency (ν):",
+        "source": "Quantum_mechanics.txt"
+      }
+    ],
+    "response": "King Blatand, also known as King Harald Bluetooth, was a Danish king who ruled in the 10th century. He is famous for uniting Denmark and converting the Danes to Christianity. His nickname \"Bluetooth\" is also the inspiration for the wireless technology named after him, symbolizing connectivity."
+  }
+]
